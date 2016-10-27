@@ -8,6 +8,42 @@
 
 /* Begin PBXBuildFile section */
 		F805A1D21DBFB7D800253F36 /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = F805A1D11DBFB7D800253F36 /* main.c */; };
+		F805EABF1DC185D200253F36 /* libavcodec.57.48.101.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = F805C5F51DC02BEB00253F36 /* libavcodec.57.48.101.dylib */; };
+		F805EAC01DC185D200253F36 /* libavcodec.57.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = F805C5F61DC02BEB00253F36 /* libavcodec.57.dylib */; };
+		F805EAC11DC185D200253F36 /* libavcodec.a in Frameworks */ = {isa = PBXBuildFile; fileRef = F805C5F71DC02BEB00253F36 /* libavcodec.a */; };
+		F805EAC21DC185D200253F36 /* libavcodec.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = F805C5F81DC02BEB00253F36 /* libavcodec.dylib */; };
+		F805EAC31DC185D200253F36 /* libavdevice.57.0.101.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = F805C5F91DC02BEB00253F36 /* libavdevice.57.0.101.dylib */; };
+		F805EAC41DC185D200253F36 /* libavdevice.57.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = F805C5FA1DC02BEB00253F36 /* libavdevice.57.dylib */; };
+		F805EAC51DC185D200253F36 /* libavdevice.a in Frameworks */ = {isa = PBXBuildFile; fileRef = F805C5FB1DC02BEB00253F36 /* libavdevice.a */; };
+		F805EAC61DC185D200253F36 /* libavdevice.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = F805C5FC1DC02BEB00253F36 /* libavdevice.dylib */; };
+		F805EAC71DC185D200253F36 /* libavfilter.6.47.100.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = F805C5FD1DC02BEB00253F36 /* libavfilter.6.47.100.dylib */; };
+		F805EAC81DC185D200253F36 /* libavfilter.6.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = F805C5FE1DC02BEB00253F36 /* libavfilter.6.dylib */; };
+		F805EAC91DC185D200253F36 /* libavfilter.a in Frameworks */ = {isa = PBXBuildFile; fileRef = F805C5FF1DC02BEB00253F36 /* libavfilter.a */; };
+		F805EACA1DC185D200253F36 /* libavfilter.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = F805C6001DC02BEB00253F36 /* libavfilter.dylib */; };
+		F805EACB1DC185D200253F36 /* libavformat.57.41.100.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = F805C6011DC02BEB00253F36 /* libavformat.57.41.100.dylib */; };
+		F805EACC1DC185D200253F36 /* libavformat.57.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = F805C6021DC02BEB00253F36 /* libavformat.57.dylib */; };
+		F805EACD1DC185D200253F36 /* libavformat.a in Frameworks */ = {isa = PBXBuildFile; fileRef = F805C6031DC02BEB00253F36 /* libavformat.a */; };
+		F805EACE1DC185D200253F36 /* libavformat.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = F805C6041DC02BEB00253F36 /* libavformat.dylib */; };
+		F805EACF1DC185D200253F36 /* libavresample.3.0.0.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = F805C6051DC02BEB00253F36 /* libavresample.3.0.0.dylib */; };
+		F805EAD01DC185D200253F36 /* libavresample.3.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = F805C6061DC02BEB00253F36 /* libavresample.3.dylib */; };
+		F805EAD11DC185D200253F36 /* libavresample.a in Frameworks */ = {isa = PBXBuildFile; fileRef = F805C6071DC02BEB00253F36 /* libavresample.a */; };
+		F805EAD21DC185D200253F36 /* libavresample.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = F805C6081DC02BEB00253F36 /* libavresample.dylib */; };
+		F805EAD31DC185D200253F36 /* libavutil.55.28.100.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = F805C6091DC02BEB00253F36 /* libavutil.55.28.100.dylib */; };
+		F805EAD41DC185D200253F36 /* libavutil.55.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = F805C60A1DC02BEB00253F36 /* libavutil.55.dylib */; };
+		F805EAD51DC185D200253F36 /* libavutil.a in Frameworks */ = {isa = PBXBuildFile; fileRef = F805C60B1DC02BEB00253F36 /* libavutil.a */; };
+		F805EAD61DC185D200253F36 /* libavutil.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = F805C60C1DC02BEB00253F36 /* libavutil.dylib */; };
+		F805EAD71DC185D200253F36 /* libpostproc.54.0.100.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = F805C60D1DC02BEB00253F36 /* libpostproc.54.0.100.dylib */; };
+		F805EAD81DC185D200253F36 /* libpostproc.54.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = F805C60E1DC02BEB00253F36 /* libpostproc.54.dylib */; };
+		F805EAD91DC185D200253F36 /* libpostproc.a in Frameworks */ = {isa = PBXBuildFile; fileRef = F805C60F1DC02BEB00253F36 /* libpostproc.a */; };
+		F805EADA1DC185D200253F36 /* libpostproc.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = F805C6101DC02BEB00253F36 /* libpostproc.dylib */; };
+		F805EADB1DC185D200253F36 /* libswresample.2.1.100.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = F805C6111DC02BEB00253F36 /* libswresample.2.1.100.dylib */; };
+		F805EADC1DC185D200253F36 /* libswresample.2.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = F805C6121DC02BEB00253F36 /* libswresample.2.dylib */; };
+		F805EADD1DC185D200253F36 /* libswresample.a in Frameworks */ = {isa = PBXBuildFile; fileRef = F805C6131DC02BEB00253F36 /* libswresample.a */; };
+		F805EADE1DC185D200253F36 /* libswresample.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = F805C6141DC02BEB00253F36 /* libswresample.dylib */; };
+		F805EADF1DC185D200253F36 /* libswscale.4.1.100.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = F805C6151DC02BEB00253F36 /* libswscale.4.1.100.dylib */; };
+		F805EAE01DC185D200253F36 /* libswscale.4.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = F805C6161DC02BEB00253F36 /* libswscale.4.dylib */; };
+		F805EAE11DC185D200253F36 /* libswscale.a in Frameworks */ = {isa = PBXBuildFile; fileRef = F805C6171DC02BEB00253F36 /* libswscale.a */; };
+		F805EAE21DC185D200253F36 /* libswscale.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = F805C6181DC02BEB00253F36 /* libswscale.dylib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +61,51 @@
 /* Begin PBXFileReference section */
 		F805A1CE1DBFB7D800253F36 /* ffmplayer */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = ffmplayer; sourceTree = BUILT_PRODUCTS_DIR; };
 		F805A1D11DBFB7D800253F36 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		F805C5F51DC02BEB00253F36 /* libavcodec.57.48.101.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; path = libavcodec.57.48.101.dylib; sourceTree = "<group>"; };
+		F805C5F61DC02BEB00253F36 /* libavcodec.57.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; path = libavcodec.57.dylib; sourceTree = "<group>"; };
+		F805C5F71DC02BEB00253F36 /* libavcodec.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; path = libavcodec.a; sourceTree = "<group>"; };
+		F805C5F81DC02BEB00253F36 /* libavcodec.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; path = libavcodec.dylib; sourceTree = "<group>"; };
+		F805C5F91DC02BEB00253F36 /* libavdevice.57.0.101.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; path = libavdevice.57.0.101.dylib; sourceTree = "<group>"; };
+		F805C5FA1DC02BEB00253F36 /* libavdevice.57.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; path = libavdevice.57.dylib; sourceTree = "<group>"; };
+		F805C5FB1DC02BEB00253F36 /* libavdevice.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; path = libavdevice.a; sourceTree = "<group>"; };
+		F805C5FC1DC02BEB00253F36 /* libavdevice.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; path = libavdevice.dylib; sourceTree = "<group>"; };
+		F805C5FD1DC02BEB00253F36 /* libavfilter.6.47.100.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; path = libavfilter.6.47.100.dylib; sourceTree = "<group>"; };
+		F805C5FE1DC02BEB00253F36 /* libavfilter.6.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; path = libavfilter.6.dylib; sourceTree = "<group>"; };
+		F805C5FF1DC02BEB00253F36 /* libavfilter.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; path = libavfilter.a; sourceTree = "<group>"; };
+		F805C6001DC02BEB00253F36 /* libavfilter.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; path = libavfilter.dylib; sourceTree = "<group>"; };
+		F805C6011DC02BEB00253F36 /* libavformat.57.41.100.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; path = libavformat.57.41.100.dylib; sourceTree = "<group>"; };
+		F805C6021DC02BEB00253F36 /* libavformat.57.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; path = libavformat.57.dylib; sourceTree = "<group>"; };
+		F805C6031DC02BEB00253F36 /* libavformat.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; path = libavformat.a; sourceTree = "<group>"; };
+		F805C6041DC02BEB00253F36 /* libavformat.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; path = libavformat.dylib; sourceTree = "<group>"; };
+		F805C6051DC02BEB00253F36 /* libavresample.3.0.0.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; path = libavresample.3.0.0.dylib; sourceTree = "<group>"; };
+		F805C6061DC02BEB00253F36 /* libavresample.3.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; path = libavresample.3.dylib; sourceTree = "<group>"; };
+		F805C6071DC02BEB00253F36 /* libavresample.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; path = libavresample.a; sourceTree = "<group>"; };
+		F805C6081DC02BEB00253F36 /* libavresample.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; path = libavresample.dylib; sourceTree = "<group>"; };
+		F805C6091DC02BEB00253F36 /* libavutil.55.28.100.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; path = libavutil.55.28.100.dylib; sourceTree = "<group>"; };
+		F805C60A1DC02BEB00253F36 /* libavutil.55.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; path = libavutil.55.dylib; sourceTree = "<group>"; };
+		F805C60B1DC02BEB00253F36 /* libavutil.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; path = libavutil.a; sourceTree = "<group>"; };
+		F805C60C1DC02BEB00253F36 /* libavutil.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; path = libavutil.dylib; sourceTree = "<group>"; };
+		F805C60D1DC02BEB00253F36 /* libpostproc.54.0.100.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; path = libpostproc.54.0.100.dylib; sourceTree = "<group>"; };
+		F805C60E1DC02BEB00253F36 /* libpostproc.54.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; path = libpostproc.54.dylib; sourceTree = "<group>"; };
+		F805C60F1DC02BEB00253F36 /* libpostproc.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; path = libpostproc.a; sourceTree = "<group>"; };
+		F805C6101DC02BEB00253F36 /* libpostproc.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; path = libpostproc.dylib; sourceTree = "<group>"; };
+		F805C6111DC02BEB00253F36 /* libswresample.2.1.100.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; path = libswresample.2.1.100.dylib; sourceTree = "<group>"; };
+		F805C6121DC02BEB00253F36 /* libswresample.2.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; path = libswresample.2.dylib; sourceTree = "<group>"; };
+		F805C6131DC02BEB00253F36 /* libswresample.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; path = libswresample.a; sourceTree = "<group>"; };
+		F805C6141DC02BEB00253F36 /* libswresample.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; path = libswresample.dylib; sourceTree = "<group>"; };
+		F805C6151DC02BEB00253F36 /* libswscale.4.1.100.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; path = libswscale.4.1.100.dylib; sourceTree = "<group>"; };
+		F805C6161DC02BEB00253F36 /* libswscale.4.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; path = libswscale.4.dylib; sourceTree = "<group>"; };
+		F805C6171DC02BEB00253F36 /* libswscale.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; path = libswscale.a; sourceTree = "<group>"; };
+		F805C6181DC02BEB00253F36 /* libswscale.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; path = libswscale.dylib; sourceTree = "<group>"; };
+		F805C61A1DC02BEB00253F36 /* libavcodec.pc */ = {isa = PBXFileReference; lastKnownFileType = text; path = libavcodec.pc; sourceTree = "<group>"; };
+		F805C61B1DC02BEB00253F36 /* libavdevice.pc */ = {isa = PBXFileReference; lastKnownFileType = text; path = libavdevice.pc; sourceTree = "<group>"; };
+		F805C61C1DC02BEB00253F36 /* libavfilter.pc */ = {isa = PBXFileReference; lastKnownFileType = text; path = libavfilter.pc; sourceTree = "<group>"; };
+		F805C61D1DC02BEB00253F36 /* libavformat.pc */ = {isa = PBXFileReference; lastKnownFileType = text; path = libavformat.pc; sourceTree = "<group>"; };
+		F805C61E1DC02BEB00253F36 /* libavresample.pc */ = {isa = PBXFileReference; lastKnownFileType = text; path = libavresample.pc; sourceTree = "<group>"; };
+		F805C61F1DC02BEB00253F36 /* libavutil.pc */ = {isa = PBXFileReference; lastKnownFileType = text; path = libavutil.pc; sourceTree = "<group>"; };
+		F805C6201DC02BEB00253F36 /* libpostproc.pc */ = {isa = PBXFileReference; lastKnownFileType = text; path = libpostproc.pc; sourceTree = "<group>"; };
+		F805C6211DC02BEB00253F36 /* libswresample.pc */ = {isa = PBXFileReference; lastKnownFileType = text; path = libswresample.pc; sourceTree = "<group>"; };
+		F805C6221DC02BEB00253F36 /* libswscale.pc */ = {isa = PBXFileReference; lastKnownFileType = text; path = libswscale.pc; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -32,6 +113,42 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F805EABF1DC185D200253F36 /* libavcodec.57.48.101.dylib in Frameworks */,
+				F805EAC01DC185D200253F36 /* libavcodec.57.dylib in Frameworks */,
+				F805EAC11DC185D200253F36 /* libavcodec.a in Frameworks */,
+				F805EAC21DC185D200253F36 /* libavcodec.dylib in Frameworks */,
+				F805EAC31DC185D200253F36 /* libavdevice.57.0.101.dylib in Frameworks */,
+				F805EAC41DC185D200253F36 /* libavdevice.57.dylib in Frameworks */,
+				F805EAC51DC185D200253F36 /* libavdevice.a in Frameworks */,
+				F805EAC61DC185D200253F36 /* libavdevice.dylib in Frameworks */,
+				F805EAC71DC185D200253F36 /* libavfilter.6.47.100.dylib in Frameworks */,
+				F805EAC81DC185D200253F36 /* libavfilter.6.dylib in Frameworks */,
+				F805EAC91DC185D200253F36 /* libavfilter.a in Frameworks */,
+				F805EACA1DC185D200253F36 /* libavfilter.dylib in Frameworks */,
+				F805EACB1DC185D200253F36 /* libavformat.57.41.100.dylib in Frameworks */,
+				F805EACC1DC185D200253F36 /* libavformat.57.dylib in Frameworks */,
+				F805EACD1DC185D200253F36 /* libavformat.a in Frameworks */,
+				F805EACE1DC185D200253F36 /* libavformat.dylib in Frameworks */,
+				F805EACF1DC185D200253F36 /* libavresample.3.0.0.dylib in Frameworks */,
+				F805EAD01DC185D200253F36 /* libavresample.3.dylib in Frameworks */,
+				F805EAD11DC185D200253F36 /* libavresample.a in Frameworks */,
+				F805EAD21DC185D200253F36 /* libavresample.dylib in Frameworks */,
+				F805EAD31DC185D200253F36 /* libavutil.55.28.100.dylib in Frameworks */,
+				F805EAD41DC185D200253F36 /* libavutil.55.dylib in Frameworks */,
+				F805EAD51DC185D200253F36 /* libavutil.a in Frameworks */,
+				F805EAD61DC185D200253F36 /* libavutil.dylib in Frameworks */,
+				F805EAD71DC185D200253F36 /* libpostproc.54.0.100.dylib in Frameworks */,
+				F805EAD81DC185D200253F36 /* libpostproc.54.dylib in Frameworks */,
+				F805EAD91DC185D200253F36 /* libpostproc.a in Frameworks */,
+				F805EADA1DC185D200253F36 /* libpostproc.dylib in Frameworks */,
+				F805EADB1DC185D200253F36 /* libswresample.2.1.100.dylib in Frameworks */,
+				F805EADC1DC185D200253F36 /* libswresample.2.dylib in Frameworks */,
+				F805EADD1DC185D200253F36 /* libswresample.a in Frameworks */,
+				F805EADE1DC185D200253F36 /* libswresample.dylib in Frameworks */,
+				F805EADF1DC185D200253F36 /* libswscale.4.1.100.dylib in Frameworks */,
+				F805EAE01DC185D200253F36 /* libswscale.4.dylib in Frameworks */,
+				F805EAE11DC185D200253F36 /* libswscale.a in Frameworks */,
+				F805EAE21DC185D200253F36 /* libswscale.dylib in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -41,6 +158,7 @@
 		F805A1C51DBFB7D800253F36 = {
 			isa = PBXGroup;
 			children = (
+				F805C5F41DC02BEB00253F36 /* lib */,
 				F805A1D01DBFB7D800253F36 /* ffmplayer */,
 				F805A1CF1DBFB7D800253F36 /* Products */,
 			);
@@ -60,6 +178,67 @@
 				F805A1D11DBFB7D800253F36 /* main.c */,
 			);
 			path = ffmplayer;
+			sourceTree = "<group>";
+		};
+		F805C5F41DC02BEB00253F36 /* lib */ = {
+			isa = PBXGroup;
+			children = (
+				F805C5F51DC02BEB00253F36 /* libavcodec.57.48.101.dylib */,
+				F805C5F61DC02BEB00253F36 /* libavcodec.57.dylib */,
+				F805C5F71DC02BEB00253F36 /* libavcodec.a */,
+				F805C5F81DC02BEB00253F36 /* libavcodec.dylib */,
+				F805C5F91DC02BEB00253F36 /* libavdevice.57.0.101.dylib */,
+				F805C5FA1DC02BEB00253F36 /* libavdevice.57.dylib */,
+				F805C5FB1DC02BEB00253F36 /* libavdevice.a */,
+				F805C5FC1DC02BEB00253F36 /* libavdevice.dylib */,
+				F805C5FD1DC02BEB00253F36 /* libavfilter.6.47.100.dylib */,
+				F805C5FE1DC02BEB00253F36 /* libavfilter.6.dylib */,
+				F805C5FF1DC02BEB00253F36 /* libavfilter.a */,
+				F805C6001DC02BEB00253F36 /* libavfilter.dylib */,
+				F805C6011DC02BEB00253F36 /* libavformat.57.41.100.dylib */,
+				F805C6021DC02BEB00253F36 /* libavformat.57.dylib */,
+				F805C6031DC02BEB00253F36 /* libavformat.a */,
+				F805C6041DC02BEB00253F36 /* libavformat.dylib */,
+				F805C6051DC02BEB00253F36 /* libavresample.3.0.0.dylib */,
+				F805C6061DC02BEB00253F36 /* libavresample.3.dylib */,
+				F805C6071DC02BEB00253F36 /* libavresample.a */,
+				F805C6081DC02BEB00253F36 /* libavresample.dylib */,
+				F805C6091DC02BEB00253F36 /* libavutil.55.28.100.dylib */,
+				F805C60A1DC02BEB00253F36 /* libavutil.55.dylib */,
+				F805C60B1DC02BEB00253F36 /* libavutil.a */,
+				F805C60C1DC02BEB00253F36 /* libavutil.dylib */,
+				F805C60D1DC02BEB00253F36 /* libpostproc.54.0.100.dylib */,
+				F805C60E1DC02BEB00253F36 /* libpostproc.54.dylib */,
+				F805C60F1DC02BEB00253F36 /* libpostproc.a */,
+				F805C6101DC02BEB00253F36 /* libpostproc.dylib */,
+				F805C6111DC02BEB00253F36 /* libswresample.2.1.100.dylib */,
+				F805C6121DC02BEB00253F36 /* libswresample.2.dylib */,
+				F805C6131DC02BEB00253F36 /* libswresample.a */,
+				F805C6141DC02BEB00253F36 /* libswresample.dylib */,
+				F805C6151DC02BEB00253F36 /* libswscale.4.1.100.dylib */,
+				F805C6161DC02BEB00253F36 /* libswscale.4.dylib */,
+				F805C6171DC02BEB00253F36 /* libswscale.a */,
+				F805C6181DC02BEB00253F36 /* libswscale.dylib */,
+				F805C6191DC02BEB00253F36 /* pkgconfig */,
+			);
+			name = lib;
+			path = ../../../../usr/local/Cellar/ffmpeg/3.1.4/lib;
+			sourceTree = "<group>";
+		};
+		F805C6191DC02BEB00253F36 /* pkgconfig */ = {
+			isa = PBXGroup;
+			children = (
+				F805C61A1DC02BEB00253F36 /* libavcodec.pc */,
+				F805C61B1DC02BEB00253F36 /* libavdevice.pc */,
+				F805C61C1DC02BEB00253F36 /* libavfilter.pc */,
+				F805C61D1DC02BEB00253F36 /* libavformat.pc */,
+				F805C61E1DC02BEB00253F36 /* libavresample.pc */,
+				F805C61F1DC02BEB00253F36 /* libavutil.pc */,
+				F805C6201DC02BEB00253F36 /* libpostproc.pc */,
+				F805C6211DC02BEB00253F36 /* libswresample.pc */,
+				F805C6221DC02BEB00253F36 /* libswscale.pc */,
+			);
+			path = pkgconfig;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -161,6 +340,8 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
+				"HEADER_SEARCH_PATHS[arch=*]" = "~/资源/代码/ffmpeg-3.1.3";
+				"LIBRARY_SEARCH_PATHS[arch=*]" = "~/资源/代码/ffmpeg-3.1.3";
 				MACOSX_DEPLOYMENT_TARGET = 10.10;
 				MTL_ENABLE_DEBUG_INFO = YES;
 				ONLY_ACTIVE_ARCH = YES;
@@ -198,6 +379,8 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
+				"HEADER_SEARCH_PATHS[arch=*]" = "~/资源/代码/ffmpeg-3.1.3";
+				"LIBRARY_SEARCH_PATHS[arch=*]" = "~/资源/代码/ffmpeg-3.1.3";
 				MACOSX_DEPLOYMENT_TARGET = 10.10;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				SDKROOT = macosx;
@@ -207,6 +390,10 @@
 		F805A1D61DBFB7D800253F36 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				"HEADER_SEARCH_PATHS[arch=*]" = /usr/local/Cellar/ffmpeg/3.1.4/include;
+				LIBRARY_SEARCH_PATHS = /usr/local/Cellar/ffmpeg/3.1.4/lib;
+				"LIBRARY_SEARCH_PATHS[arch=*]" = /usr/local/Cellar/ffmpeg/3.1.4/lib;
+				"OTHER_CFLAGS[arch=*]" = "";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
@@ -214,6 +401,9 @@
 		F805A1D71DBFB7D800253F36 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				"HEADER_SEARCH_PATHS[arch=*]" = /usr/local/Cellar/ffmpeg/3.1.4/include;
+				LIBRARY_SEARCH_PATHS = /usr/local/Cellar/ffmpeg/3.1.4/lib;
+				"LIBRARY_SEARCH_PATHS[arch=*]" = /usr/local/Cellar/ffmpeg/3.1.4/lib;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;
