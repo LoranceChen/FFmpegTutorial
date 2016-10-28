@@ -8,46 +8,61 @@
 
 /* Begin PBXBuildFile section */
 		F805A1D21DBFB7D800253F36 /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = F805A1D11DBFB7D800253F36 /* main.c */; };
-		F805EABF1DC185D200253F36 /* libavcodec.57.48.101.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = F805C5F51DC02BEB00253F36 /* libavcodec.57.48.101.dylib */; };
-		F805EAC01DC185D200253F36 /* libavcodec.57.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = F805C5F61DC02BEB00253F36 /* libavcodec.57.dylib */; };
 		F805EAC11DC185D200253F36 /* libavcodec.a in Frameworks */ = {isa = PBXBuildFile; fileRef = F805C5F71DC02BEB00253F36 /* libavcodec.a */; };
 		F805EAC21DC185D200253F36 /* libavcodec.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = F805C5F81DC02BEB00253F36 /* libavcodec.dylib */; };
-		F805EAC31DC185D200253F36 /* libavdevice.57.0.101.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = F805C5F91DC02BEB00253F36 /* libavdevice.57.0.101.dylib */; };
-		F805EAC41DC185D200253F36 /* libavdevice.57.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = F805C5FA1DC02BEB00253F36 /* libavdevice.57.dylib */; };
 		F805EAC51DC185D200253F36 /* libavdevice.a in Frameworks */ = {isa = PBXBuildFile; fileRef = F805C5FB1DC02BEB00253F36 /* libavdevice.a */; };
 		F805EAC61DC185D200253F36 /* libavdevice.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = F805C5FC1DC02BEB00253F36 /* libavdevice.dylib */; };
-		F805EAC71DC185D200253F36 /* libavfilter.6.47.100.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = F805C5FD1DC02BEB00253F36 /* libavfilter.6.47.100.dylib */; };
-		F805EAC81DC185D200253F36 /* libavfilter.6.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = F805C5FE1DC02BEB00253F36 /* libavfilter.6.dylib */; };
 		F805EAC91DC185D200253F36 /* libavfilter.a in Frameworks */ = {isa = PBXBuildFile; fileRef = F805C5FF1DC02BEB00253F36 /* libavfilter.a */; };
 		F805EACA1DC185D200253F36 /* libavfilter.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = F805C6001DC02BEB00253F36 /* libavfilter.dylib */; };
-		F805EACB1DC185D200253F36 /* libavformat.57.41.100.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = F805C6011DC02BEB00253F36 /* libavformat.57.41.100.dylib */; };
-		F805EACC1DC185D200253F36 /* libavformat.57.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = F805C6021DC02BEB00253F36 /* libavformat.57.dylib */; };
 		F805EACD1DC185D200253F36 /* libavformat.a in Frameworks */ = {isa = PBXBuildFile; fileRef = F805C6031DC02BEB00253F36 /* libavformat.a */; };
 		F805EACE1DC185D200253F36 /* libavformat.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = F805C6041DC02BEB00253F36 /* libavformat.dylib */; };
-		F805EACF1DC185D200253F36 /* libavresample.3.0.0.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = F805C6051DC02BEB00253F36 /* libavresample.3.0.0.dylib */; };
-		F805EAD01DC185D200253F36 /* libavresample.3.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = F805C6061DC02BEB00253F36 /* libavresample.3.dylib */; };
 		F805EAD11DC185D200253F36 /* libavresample.a in Frameworks */ = {isa = PBXBuildFile; fileRef = F805C6071DC02BEB00253F36 /* libavresample.a */; };
 		F805EAD21DC185D200253F36 /* libavresample.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = F805C6081DC02BEB00253F36 /* libavresample.dylib */; };
-		F805EAD31DC185D200253F36 /* libavutil.55.28.100.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = F805C6091DC02BEB00253F36 /* libavutil.55.28.100.dylib */; };
-		F805EAD41DC185D200253F36 /* libavutil.55.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = F805C60A1DC02BEB00253F36 /* libavutil.55.dylib */; };
 		F805EAD51DC185D200253F36 /* libavutil.a in Frameworks */ = {isa = PBXBuildFile; fileRef = F805C60B1DC02BEB00253F36 /* libavutil.a */; };
 		F805EAD61DC185D200253F36 /* libavutil.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = F805C60C1DC02BEB00253F36 /* libavutil.dylib */; };
-		F805EAD71DC185D200253F36 /* libpostproc.54.0.100.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = F805C60D1DC02BEB00253F36 /* libpostproc.54.0.100.dylib */; };
-		F805EAD81DC185D200253F36 /* libpostproc.54.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = F805C60E1DC02BEB00253F36 /* libpostproc.54.dylib */; };
 		F805EAD91DC185D200253F36 /* libpostproc.a in Frameworks */ = {isa = PBXBuildFile; fileRef = F805C60F1DC02BEB00253F36 /* libpostproc.a */; };
 		F805EADA1DC185D200253F36 /* libpostproc.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = F805C6101DC02BEB00253F36 /* libpostproc.dylib */; };
-		F805EADB1DC185D200253F36 /* libswresample.2.1.100.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = F805C6111DC02BEB00253F36 /* libswresample.2.1.100.dylib */; };
-		F805EADC1DC185D200253F36 /* libswresample.2.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = F805C6121DC02BEB00253F36 /* libswresample.2.dylib */; };
 		F805EADD1DC185D200253F36 /* libswresample.a in Frameworks */ = {isa = PBXBuildFile; fileRef = F805C6131DC02BEB00253F36 /* libswresample.a */; };
 		F805EADE1DC185D200253F36 /* libswresample.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = F805C6141DC02BEB00253F36 /* libswresample.dylib */; };
-		F805EADF1DC185D200253F36 /* libswscale.4.1.100.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = F805C6151DC02BEB00253F36 /* libswscale.4.1.100.dylib */; };
-		F805EAE01DC185D200253F36 /* libswscale.4.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = F805C6161DC02BEB00253F36 /* libswscale.4.dylib */; };
 		F805EAE11DC185D200253F36 /* libswscale.a in Frameworks */ = {isa = PBXBuildFile; fileRef = F805C6171DC02BEB00253F36 /* libswscale.a */; };
 		F805EAE21DC185D200253F36 /* libswscale.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = F805C6181DC02BEB00253F36 /* libswscale.dylib */; };
+		F8C7D6EE1DC22DDD00B91271 /* t2.c in Sources */ = {isa = PBXBuildFile; fileRef = F8C7D6E81DC22C1D00B91271 /* t2.c */; };
+		F8C7D6F01DC22DDD00B91271 /* libavcodec.a in Frameworks */ = {isa = PBXBuildFile; fileRef = F805C5F71DC02BEB00253F36 /* libavcodec.a */; };
+		F8C7D6F11DC22DDD00B91271 /* libavcodec.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = F805C5F81DC02BEB00253F36 /* libavcodec.dylib */; };
+		F8C7D6F21DC22DDD00B91271 /* libavdevice.a in Frameworks */ = {isa = PBXBuildFile; fileRef = F805C5FB1DC02BEB00253F36 /* libavdevice.a */; };
+		F8C7D6F31DC22DDD00B91271 /* libavdevice.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = F805C5FC1DC02BEB00253F36 /* libavdevice.dylib */; };
+		F8C7D6F41DC22DDD00B91271 /* libavfilter.a in Frameworks */ = {isa = PBXBuildFile; fileRef = F805C5FF1DC02BEB00253F36 /* libavfilter.a */; };
+		F8C7D6F51DC22DDD00B91271 /* libavfilter.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = F805C6001DC02BEB00253F36 /* libavfilter.dylib */; };
+		F8C7D6F61DC22DDD00B91271 /* libavformat.a in Frameworks */ = {isa = PBXBuildFile; fileRef = F805C6031DC02BEB00253F36 /* libavformat.a */; };
+		F8C7D6F71DC22DDD00B91271 /* libavformat.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = F805C6041DC02BEB00253F36 /* libavformat.dylib */; };
+		F8C7D6F81DC22DDD00B91271 /* libavresample.a in Frameworks */ = {isa = PBXBuildFile; fileRef = F805C6071DC02BEB00253F36 /* libavresample.a */; };
+		F8C7D6F91DC22DDD00B91271 /* libavresample.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = F805C6081DC02BEB00253F36 /* libavresample.dylib */; };
+		F8C7D6FA1DC22DDD00B91271 /* libavutil.a in Frameworks */ = {isa = PBXBuildFile; fileRef = F805C60B1DC02BEB00253F36 /* libavutil.a */; };
+		F8C7D6FB1DC22DDD00B91271 /* libavutil.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = F805C60C1DC02BEB00253F36 /* libavutil.dylib */; };
+		F8C7D6FC1DC22DDD00B91271 /* libpostproc.a in Frameworks */ = {isa = PBXBuildFile; fileRef = F805C60F1DC02BEB00253F36 /* libpostproc.a */; };
+		F8C7D6FD1DC22DDD00B91271 /* libpostproc.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = F805C6101DC02BEB00253F36 /* libpostproc.dylib */; };
+		F8C7D6FE1DC22DDD00B91271 /* libswresample.a in Frameworks */ = {isa = PBXBuildFile; fileRef = F805C6131DC02BEB00253F36 /* libswresample.a */; };
+		F8C7D6FF1DC22DDD00B91271 /* libswresample.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = F805C6141DC02BEB00253F36 /* libswresample.dylib */; };
+		F8C7D7001DC22DDD00B91271 /* libswscale.a in Frameworks */ = {isa = PBXBuildFile; fileRef = F805C6171DC02BEB00253F36 /* libswscale.a */; };
+		F8C7D7011DC22DDD00B91271 /* libswscale.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = F805C6181DC02BEB00253F36 /* libswscale.dylib */; };
+		F8C7D71D1DC2D10600B91271 /* libSDL-1.2.0.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = F8C7D7191DC2D10600B91271 /* libSDL-1.2.0.dylib */; };
+		F8C7D71E1DC2D10600B91271 /* libSDL.a in Frameworks */ = {isa = PBXBuildFile; fileRef = F8C7D71A1DC2D10600B91271 /* libSDL.a */; };
+		F8C7D71F1DC2D10600B91271 /* libSDL.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = F8C7D71B1DC2D10600B91271 /* libSDL.dylib */; };
+		F8C7D7201DC2D10600B91271 /* libSDLmain.a in Frameworks */ = {isa = PBXBuildFile; fileRef = F8C7D71C1DC2D10600B91271 /* libSDLmain.a */; };
+		F8C7D7221DC2D16300B91271 /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F8C7D7211DC2D16300B91271 /* Cocoa.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
 		F805A1CC1DBFB7D800253F36 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		F8C7D7021DC22DDD00B91271 /* CopyFiles */ = {
 			isa = PBXCopyFilesBuildPhase;
 			buildActionMask = 2147483647;
 			dstPath = /usr/share/man/man1/;
@@ -106,6 +121,13 @@
 		F805C6201DC02BEB00253F36 /* libpostproc.pc */ = {isa = PBXFileReference; lastKnownFileType = text; path = libpostproc.pc; sourceTree = "<group>"; };
 		F805C6211DC02BEB00253F36 /* libswresample.pc */ = {isa = PBXFileReference; lastKnownFileType = text; path = libswresample.pc; sourceTree = "<group>"; };
 		F805C6221DC02BEB00253F36 /* libswscale.pc */ = {isa = PBXFileReference; lastKnownFileType = text; path = libswscale.pc; sourceTree = "<group>"; };
+		F8C7D6E81DC22C1D00B91271 /* t2.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = t2.c; sourceTree = "<group>"; };
+		F8C7D7061DC22DDD00B91271 /* ffmplayer2 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = ffmplayer2; sourceTree = BUILT_PRODUCTS_DIR; };
+		F8C7D7191DC2D10600B91271 /* libSDL-1.2.0.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = "libSDL-1.2.0.dylib"; path = "../../../../usr/local/Cellar/sdl/1.2.15/lib/libSDL-1.2.0.dylib"; sourceTree = "<group>"; };
+		F8C7D71A1DC2D10600B91271 /* libSDL.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = libSDL.a; path = ../../../../usr/local/Cellar/sdl/1.2.15/lib/libSDL.a; sourceTree = "<group>"; };
+		F8C7D71B1DC2D10600B91271 /* libSDL.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libSDL.dylib; path = ../../../../usr/local/Cellar/sdl/1.2.15/lib/libSDL.dylib; sourceTree = "<group>"; };
+		F8C7D71C1DC2D10600B91271 /* libSDLmain.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = libSDLmain.a; path = ../../../../usr/local/Cellar/sdl/1.2.15/lib/libSDLmain.a; sourceTree = "<group>"; };
+		F8C7D7211DC2D16300B91271 /* Cocoa.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Cocoa.framework; path = System/Library/Frameworks/Cocoa.framework; sourceTree = SDKROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -113,42 +135,54 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				F805EABF1DC185D200253F36 /* libavcodec.57.48.101.dylib in Frameworks */,
-				F805EAC01DC185D200253F36 /* libavcodec.57.dylib in Frameworks */,
 				F805EAC11DC185D200253F36 /* libavcodec.a in Frameworks */,
 				F805EAC21DC185D200253F36 /* libavcodec.dylib in Frameworks */,
-				F805EAC31DC185D200253F36 /* libavdevice.57.0.101.dylib in Frameworks */,
-				F805EAC41DC185D200253F36 /* libavdevice.57.dylib in Frameworks */,
 				F805EAC51DC185D200253F36 /* libavdevice.a in Frameworks */,
 				F805EAC61DC185D200253F36 /* libavdevice.dylib in Frameworks */,
-				F805EAC71DC185D200253F36 /* libavfilter.6.47.100.dylib in Frameworks */,
-				F805EAC81DC185D200253F36 /* libavfilter.6.dylib in Frameworks */,
 				F805EAC91DC185D200253F36 /* libavfilter.a in Frameworks */,
 				F805EACA1DC185D200253F36 /* libavfilter.dylib in Frameworks */,
-				F805EACB1DC185D200253F36 /* libavformat.57.41.100.dylib in Frameworks */,
-				F805EACC1DC185D200253F36 /* libavformat.57.dylib in Frameworks */,
 				F805EACD1DC185D200253F36 /* libavformat.a in Frameworks */,
 				F805EACE1DC185D200253F36 /* libavformat.dylib in Frameworks */,
-				F805EACF1DC185D200253F36 /* libavresample.3.0.0.dylib in Frameworks */,
-				F805EAD01DC185D200253F36 /* libavresample.3.dylib in Frameworks */,
 				F805EAD11DC185D200253F36 /* libavresample.a in Frameworks */,
 				F805EAD21DC185D200253F36 /* libavresample.dylib in Frameworks */,
-				F805EAD31DC185D200253F36 /* libavutil.55.28.100.dylib in Frameworks */,
-				F805EAD41DC185D200253F36 /* libavutil.55.dylib in Frameworks */,
 				F805EAD51DC185D200253F36 /* libavutil.a in Frameworks */,
 				F805EAD61DC185D200253F36 /* libavutil.dylib in Frameworks */,
-				F805EAD71DC185D200253F36 /* libpostproc.54.0.100.dylib in Frameworks */,
-				F805EAD81DC185D200253F36 /* libpostproc.54.dylib in Frameworks */,
 				F805EAD91DC185D200253F36 /* libpostproc.a in Frameworks */,
 				F805EADA1DC185D200253F36 /* libpostproc.dylib in Frameworks */,
-				F805EADB1DC185D200253F36 /* libswresample.2.1.100.dylib in Frameworks */,
-				F805EADC1DC185D200253F36 /* libswresample.2.dylib in Frameworks */,
 				F805EADD1DC185D200253F36 /* libswresample.a in Frameworks */,
 				F805EADE1DC185D200253F36 /* libswresample.dylib in Frameworks */,
-				F805EADF1DC185D200253F36 /* libswscale.4.1.100.dylib in Frameworks */,
-				F805EAE01DC185D200253F36 /* libswscale.4.dylib in Frameworks */,
 				F805EAE11DC185D200253F36 /* libswscale.a in Frameworks */,
 				F805EAE21DC185D200253F36 /* libswscale.dylib in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		F8C7D6EF1DC22DDD00B91271 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				F8C7D7221DC2D16300B91271 /* Cocoa.framework in Frameworks */,
+				F8C7D6F01DC22DDD00B91271 /* libavcodec.a in Frameworks */,
+				F8C7D6F11DC22DDD00B91271 /* libavcodec.dylib in Frameworks */,
+				F8C7D6F21DC22DDD00B91271 /* libavdevice.a in Frameworks */,
+				F8C7D6F31DC22DDD00B91271 /* libavdevice.dylib in Frameworks */,
+				F8C7D6F41DC22DDD00B91271 /* libavfilter.a in Frameworks */,
+				F8C7D6F51DC22DDD00B91271 /* libavfilter.dylib in Frameworks */,
+				F8C7D6F61DC22DDD00B91271 /* libavformat.a in Frameworks */,
+				F8C7D6F71DC22DDD00B91271 /* libavformat.dylib in Frameworks */,
+				F8C7D6F81DC22DDD00B91271 /* libavresample.a in Frameworks */,
+				F8C7D6F91DC22DDD00B91271 /* libavresample.dylib in Frameworks */,
+				F8C7D71D1DC2D10600B91271 /* libSDL-1.2.0.dylib in Frameworks */,
+				F8C7D71E1DC2D10600B91271 /* libSDL.a in Frameworks */,
+				F8C7D71F1DC2D10600B91271 /* libSDL.dylib in Frameworks */,
+				F8C7D7201DC2D10600B91271 /* libSDLmain.a in Frameworks */,
+				F8C7D6FA1DC22DDD00B91271 /* libavutil.a in Frameworks */,
+				F8C7D6FB1DC22DDD00B91271 /* libavutil.dylib in Frameworks */,
+				F8C7D6FC1DC22DDD00B91271 /* libpostproc.a in Frameworks */,
+				F8C7D6FD1DC22DDD00B91271 /* libpostproc.dylib in Frameworks */,
+				F8C7D6FE1DC22DDD00B91271 /* libswresample.a in Frameworks */,
+				F8C7D6FF1DC22DDD00B91271 /* libswresample.dylib in Frameworks */,
+				F8C7D7001DC22DDD00B91271 /* libswscale.a in Frameworks */,
+				F8C7D7011DC22DDD00B91271 /* libswscale.dylib in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -158,6 +192,11 @@
 		F805A1C51DBFB7D800253F36 = {
 			isa = PBXGroup;
 			children = (
+				F8C7D7211DC2D16300B91271 /* Cocoa.framework */,
+				F8C7D7191DC2D10600B91271 /* libSDL-1.2.0.dylib */,
+				F8C7D71A1DC2D10600B91271 /* libSDL.a */,
+				F8C7D71B1DC2D10600B91271 /* libSDL.dylib */,
+				F8C7D71C1DC2D10600B91271 /* libSDLmain.a */,
 				F805C5F41DC02BEB00253F36 /* lib */,
 				F805A1D01DBFB7D800253F36 /* ffmplayer */,
 				F805A1CF1DBFB7D800253F36 /* Products */,
@@ -168,6 +207,7 @@
 			isa = PBXGroup;
 			children = (
 				F805A1CE1DBFB7D800253F36 /* ffmplayer */,
+				F8C7D7061DC22DDD00B91271 /* ffmplayer2 */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -176,6 +216,7 @@
 			isa = PBXGroup;
 			children = (
 				F805A1D11DBFB7D800253F36 /* main.c */,
+				F8C7D6E81DC22C1D00B91271 /* t2.c */,
 			);
 			path = ffmplayer;
 			sourceTree = "<group>";
@@ -261,6 +302,23 @@
 			productReference = F805A1CE1DBFB7D800253F36 /* ffmplayer */;
 			productType = "com.apple.product-type.tool";
 		};
+		F8C7D6EB1DC22DDD00B91271 /* ffmplayer2 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = F8C7D7031DC22DDD00B91271 /* Build configuration list for PBXNativeTarget "ffmplayer2" */;
+			buildPhases = (
+				F8C7D6EC1DC22DDD00B91271 /* Sources */,
+				F8C7D6EF1DC22DDD00B91271 /* Frameworks */,
+				F8C7D7021DC22DDD00B91271 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = ffmplayer2;
+			productName = ffmplayer;
+			productReference = F8C7D7061DC22DDD00B91271 /* ffmplayer2 */;
+			productType = "com.apple.product-type.tool";
+		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
@@ -288,6 +346,7 @@
 			projectRoot = "";
 			targets = (
 				F805A1CD1DBFB7D800253F36 /* ffmplayer */,
+				F8C7D6EB1DC22DDD00B91271 /* ffmplayer2 */,
 			);
 		};
 /* End PBXProject section */
@@ -298,6 +357,14 @@
 			buildActionMask = 2147483647;
 			files = (
 				F805A1D21DBFB7D800253F36 /* main.c in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		F8C7D6EC1DC22DDD00B91271 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				F8C7D6EE1DC22DDD00B91271 /* t2.c in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -408,6 +475,45 @@
 			};
 			name = Release;
 		};
+		F8C7D7041DC22DDD00B91271 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				"HEADER_SEARCH_PATHS[arch=*]" = (
+					/usr/local/Cellar/ffmpeg/3.1.4/include,
+					/usr/local/Cellar/sdl/1.2.15/include,
+				);
+				LIBRARY_SEARCH_PATHS = (
+					/usr/local/Cellar/ffmpeg/3.1.4/lib,
+					/usr/local/Cellar/sdl/1.2.15/lib,
+				);
+				"LIBRARY_SEARCH_PATHS[arch=*]" = (
+					/usr/local/Cellar/ffmpeg/3.1.4/lib,
+					/usr/local/Cellar/sdl/1.2.15/lib,
+				);
+				"OTHER_CFLAGS[arch=*]" = "";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		F8C7D7051DC22DDD00B91271 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				"HEADER_SEARCH_PATHS[arch=*]" = (
+					/usr/local/Cellar/ffmpeg/3.1.4/include,
+					/usr/local/Cellar/sdl/1.2.15/include,
+				);
+				LIBRARY_SEARCH_PATHS = (
+					/usr/local/Cellar/ffmpeg/3.1.4/lib,
+					/usr/local/Cellar/sdl/1.2.15/lib,
+				);
+				"LIBRARY_SEARCH_PATHS[arch=*]" = (
+					/usr/local/Cellar/ffmpeg/3.1.4/lib,
+					/usr/local/Cellar/sdl/1.2.15/lib,
+				);
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
@@ -427,6 +533,16 @@
 				F805A1D71DBFB7D800253F36 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		F8C7D7031DC22DDD00B91271 /* Build configuration list for PBXNativeTarget "ffmplayer2" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				F8C7D7041DC22DDD00B91271 /* Debug */,
+				F8C7D7051DC22DDD00B91271 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

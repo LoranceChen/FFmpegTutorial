@@ -6,5 +6,8 @@
 * XCode
 * C(only CLang)
 
+##Note
+* tutorial02(t2.c) - should link `Cocoa.framwork`
+
 ##TODO
 * replace XCode with `CMake`
